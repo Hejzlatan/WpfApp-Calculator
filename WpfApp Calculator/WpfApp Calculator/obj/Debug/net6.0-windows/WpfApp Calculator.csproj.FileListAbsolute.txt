@@ -1,0 +1,20 @@
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\bin\Debug\net6.0-windows\WpfApp Calculator.exe
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\bin\Debug\net6.0-windows\WpfApp Calculator.deps.json
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\bin\Debug\net6.0-windows\WpfApp Calculator.runtimeconfig.json
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\bin\Debug\net6.0-windows\WpfApp Calculator.dll
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\bin\Debug\net6.0-windows\WpfApp Calculator.pdb
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\WpfApp Calculator.csproj.AssemblyReference.cache
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\WpfApp Calculator_MarkupCompile.cache
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\WpfApp Calculator.g.resources
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\WpfApp Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\WpfApp Calculator.AssemblyInfoInputs.cache
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\WpfApp Calculator.AssemblyInfo.cs
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\WpfApp Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\WpfApp Calculator.dll
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\refint\WpfApp Calculator.dll
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\WpfApp Calculator.pdb
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\WpfApp Calculator.genruntimeconfig.cache
+C:\Users\tobias.nilsson13\source\repos\WpfApp Calculator\WpfApp Calculator\obj\Debug\net6.0-windows\ref\WpfApp Calculator.dll
